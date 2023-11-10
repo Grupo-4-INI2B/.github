@@ -4,9 +4,9 @@ ministradas pelas professoras Ariane Scarelli e Débora Aires, objetivo foi faze
 que aqui se localiza foi feito por Gustavo, Heitor e Juliana, baseando-se em como seria um sistema de gerência de produtos de um pokémarket.
 
 O segundo projeto é o anual do segundo ano, o desenvolvimento de uma empresa, o que incluí um site de vendas e de administração dos produtos, 
-utilizando-se dos conhecimentos obtidos ao longo daquele ano nas matérias de Banco de Dados(professor José Viera), Aplicativos I(Débora Aires)
+utilizando-se dos conhecimentos obtidos ao longo daquele ano nas matérias de Banco de Dados(professor José Vieira), Aplicativos I(Débora Aires)
 e Desenvolvimento Web(professor Marcelo Cabello), neste caso todos os membros da organização fizeram parte do desenvolvimento. 
-Por final, o semestral(2) daquele mesmo ano, na matéria de Linguagem de Programação II - C#, do professor José Viera, onde fizemos o remake da
+Por final, o semestral(2) daquele mesmo ano, na matéria de Linguagem de Programação II - C#, do professor José Vieira, onde fizemos o remake da
 aplicação do primeiro ano, agora utilizando o C# e o PostgreSQL.
 
 É válido de nota outros dois projetos, que não envolveram programação, mas eram do técnico e envolveram o todo ou parte dos membros desta
